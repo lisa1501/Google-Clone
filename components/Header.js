@@ -6,7 +6,7 @@ import { CameraIcon, MicrophoneIcon, ViewGridIcon } from '@heroicons/react/solid
 import { SearchIcon } from '@heroicons/react/outline';
 
 import Avatar from './Avatar';
-import HeaderOPtions from './HeaderOPtions';
+import HeaderOPtions from './HeaderOptions';
 
 function Header() {
     const router= useRouter();
