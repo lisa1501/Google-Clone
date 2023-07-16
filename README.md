@@ -11,6 +11,15 @@ yarn dev
 # or
 pnpm dev
 ```
+- Next create a .env file in current directory. It should contain the following information.
+```bash
+  # // API Key-https://developers.google.com/custom-search/v1/using_rest
+  API_KEY = ''
+
+  # // context key -
+  CONTEXT_KEY = ''
+  
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
