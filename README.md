@@ -1,7 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-## Getting Started
 - `git clone https://github.com/lisa1501/Google-Clone.git`
 - `cd Google-Clone`
 - First, install and run the development server:
@@ -17,10 +16,10 @@ pnpm dev
 - Next create a .env file in current directory. It should contain the following information.
 ```bash
   # // API Key-https://developers.google.com/custom-search/v1/using_rest
-  API_KEY = ''
+  API_KEY = 
 
   # // context key -
-  CONTEXT_KEY = ''
+  CONTEXT_KEY = 
   
 ```
 
