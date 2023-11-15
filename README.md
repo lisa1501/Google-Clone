@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 ## Getting Started
-- `git clone https://github.com/lisa1501/Google-Clone.git && cd Google-Clone`
+- `git clone https://github.com/lisa1501/Google-Clone.git`
+- `cd Google-Clone`
 - First, install and run the development server:
 
 ```bash
